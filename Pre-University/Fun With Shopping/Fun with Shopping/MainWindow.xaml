@@ -1,0 +1,54 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:local="clr-namespace:Fun_with_Shopping" x:Class="Fun_with_Shopping.MainWindow"
+        Title="Fun with Shopping v1.0" Height="550" Width="340" Loaded="Window_Loaded">
+    <Grid>
+        <Rectangle Fill="White" HorizontalAlignment="Left" Height="140" Margin="10,62,0,0" Stroke="Black" VerticalAlignment="Top" Width="212"/>
+
+        <TextBlock x:Name="txtCurrent" FontSize="15" FontWeight="Bold" Margin="10,207,218,281" ><Run Text="Current Items"/></TextBlock>
+        <TextBlock x:Name="txtHeading" FontWeight="Bold" FontSize="20" VerticalAlignment="Center" TextAlignment="Center" HorizontalAlignment="Center" Margin="10,0,10,479" Width="312" Height="30" ><Run Text="My Shopping List"/></TextBlock>
+        <TextBlock x:Name="txtAvailable" FontSize="15" FontWeight="Bold" Margin="10,40,-10,-40"><Run Text="Available Items"/></TextBlock>
+        <ListView x:Name="lsvTO" Margin="10,228,10,47" SelectionChanged="lsvTO_SelectionChanged" >
+            <ListView.View>
+                <GridView>
+                    <GridView.ColumnHeaderContextMenu>
+                        <ContextMenu/>
+                    </GridView.ColumnHeaderContextMenu>
+                    <GridViewColumn Header="Name" Width="150" DisplayMemberBinding="{Binding name}"/>
+                    <GridViewColumn Header="Count" Width="65" DisplayMemberBinding="{Binding count}"/>
+                    <GridViewColumn Header="Cost" Width="75" DisplayMemberBinding="{Binding cost2, StringFormat=\{0:C\}}"/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+        <TextBlock x:Name="txtTotalITEMS" FontSize="15" VerticalAlignment="Bottom" Margin="10,0,243,27"><Run Text="Total Items:"/></TextBlock>
+        <TextBlock x:Name="txtCountITEMS" FontSize="15" VerticalAlignment="Bottom" Margin="94,0,119,27" RenderTransformOrigin="0.366,-0.22"><Run Text="0"/></TextBlock>
+        <TextBlock x:Name="txtTotalCOST" Margin="10,488,243,5" FontSize="15" TextAlignment="Left" ><Run Text="Total Costs:"/></TextBlock>
+        <TextBlock x:Name="txtCountCOST" Margin="91,489,133,0" FontSize="15" TextAlignment="Left" Height="20" VerticalAlignment="Top" RenderTransformOrigin="0.5,0.5" >
+            <TextBlock.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-0.025"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </TextBlock.RenderTransform><Run Text="$0.00"/></TextBlock>
+        <Button x:Name="btnApple" Click="btnApple_Click" ToolTip="$0.50" Content="Apple" HorizontalAlignment="Left" Margin="20,72,0,0" VerticalAlignment="Top" Width="94"/>
+        <Button x:Name="btnBanana" Click="btnBanana_Click" ToolTip="$0.65" Content="Banana" HorizontalAlignment="Left" Margin="119,72,0,0" VerticalAlignment="Top" Width="94"/>
+        <Button x:Name="btnDingle" Click="btnDingle_Click" ToolTip="$1.86" Content="Dingle" HorizontalAlignment="Left" Margin="119,98,0,0" VerticalAlignment="Top" Width="94"/>
+        <Button x:Name="btnCarrot" Click="btnCarrot_Click" ToolTip="$0.30" Content="Carrot" HorizontalAlignment="Left" Margin="20,98,0,0" VerticalAlignment="Top" Width="94"/>
+        <Button x:Name="btnElephant" Click="btnElephant_Click" ToolTip="$2.50" Content="Elephant" HorizontalAlignment="Left" Margin="20,123,0,0" VerticalAlignment="Top" Width="94"/>
+        <Button x:Name="btnFrangapanie" Click="btnFrangapanie_Click" ToolTip="$1.00" Content="Frangapanie" HorizontalAlignment="Left" Margin="119,123,0,0" VerticalAlignment="Top" Width="94"/>
+        <Button x:Name="btnGoldfish" Click="btnGoldfish_Click" ToolTip="$23.00" Content="Goldfish" HorizontalAlignment="Left" Margin="20,148,0,0" VerticalAlignment="Top" Width="94"/>
+        <Button x:Name="btnHorse" Click="btnHorse_Click" ToolTip="$9.12" Content="Horse" HorizontalAlignment="Left" Margin="119,148,0,0" VerticalAlignment="Top" Width="94"/>
+        <Button x:Name="btnInsignia" Click="btnInsignia_Click" ToolTip="$1.80" Content="Insignia" HorizontalAlignment="Left" Margin="20,172,0,0" VerticalAlignment="Top" Width="94"/>
+        <Button x:Name="btnJackarse" Click="btnJackarse_Click" ToolTip="$2.00"  Content="Jackarse" HorizontalAlignment="Left" Margin="119,172,0,0" VerticalAlignment="Top" Width="94"/>
+        <TextBlock x:Name="txtCategories" FontWeight="Bold" FontSize="15"  RenderTransformOrigin="0.565,0.522" Margin="237,40,-237,-40"  ><Run Text="Categories"/></TextBlock>
+        <RadioButton x:Name="rdbAll" Click="rdbAll_Click" Content="All" HorizontalAlignment="Left" Margin="237,68,0,0" VerticalAlignment="Top"/>
+        <RadioButton x:Name="rdbFruit" Click="rdbFruit_Click" Content="Fruit" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="237,88,0,0"/>
+        <RadioButton x:Name="rdbMeat" Click="rdbMeat_Click"  Content="Meat" HorizontalAlignment="Left" Margin="237,108,0,0" VerticalAlignment="Top"/>
+        <RadioButton x:Name="rdbGroceries" Click="rdbGroceries_Click" Content="Groceries" HorizontalAlignment="Left" Margin="237,128,0,0" VerticalAlignment="Top"/>
+        <RadioButton x:Name="rdbMisc" Click="rdbMisc_Click" Content="Misc" HorizontalAlignment="Left" Margin="237,148,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="btnSELL" Content="Remove" Click="btnSELL_Click" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="231,477,0,0"/>
+    </Grid>
+</Window>
