@@ -1,0 +1,2 @@
+These projects are included solely for fun. They are very old and some of them were created before I knew how to code! These projects are made in construct 2 and were not exported.
+If you are interested you can download construct 2, open and run the project files.
