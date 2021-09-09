@@ -1,3 +1,0 @@
-To test this project, either use the shortcut or navigate to "Fun with Shopping\bin\Debug" and run "Fun With Shopping" (no extension)
-
-This project was developed for windows machines, and therefore requires windows 8 or newer to run.
