@@ -1,0 +1,6 @@
+Either install and run the server and then the client,
+
+or run the server binary directly from "Build\NargesLogs_Server\NargesLogs_Server\bin\Debug"
+and the client binary from "Build\NargesLogs\NargesLogs\bin\Debug"
+
+Clients can access the server from outside networks. Forward port 3214 to the host machine and connect client to public ip address of host machine's network.

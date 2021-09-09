@@ -1,0 +1,1 @@
+Either use the shortcut in this directory or run "Scramble Encryption" in "Program\Scramble Encryption\bin\Debug".

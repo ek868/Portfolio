@@ -1,0 +1,9 @@
+I do not recommend encrypting important files with this application... If you do, please make sure that the encrypted version of the file does not replace the original file.
+This application was made before I had any disciplined training in software development and is in my portfolio just because viewers may find it interesting.
+
+DECRYPTING A FILE WITH THE INCORRECT PASSWORD WILL DESTROY IT.
+
+In most cases, the file will become irretreavable.
+In the unlikely event that this actually happens to somebody, you can try to encrypt the destroyed file again with the same incorrect password that you used to destroy it.
+This could reverse the file back to its original encrypted form, and then you can decrypt it again with the correct password.
+

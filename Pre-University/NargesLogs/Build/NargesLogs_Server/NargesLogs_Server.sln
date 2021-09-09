@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NargesLogs_Server", "NargesLogs_Server\NargesLogs_Server.csproj", "{7D346E85-D6C7-4BE3-B0FA-DD6F9C962A6B}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "NargesLogs_Server_Setup", "NargesLogs_Server_Setup\NargesLogs_Server_Setup.vdproj", "{CC487D28-B268-4EA2-8533-B928E40576CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D346E85-D6C7-4BE3-B0FA-DD6F9C962A6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D346E85-D6C7-4BE3-B0FA-DD6F9C962A6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D346E85-D6C7-4BE3-B0FA-DD6F9C962A6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D346E85-D6C7-4BE3-B0FA-DD6F9C962A6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC487D28-B268-4EA2-8533-B928E40576CE}.Debug|Any CPU.ActiveCfg = Debug
+		{CC487D28-B268-4EA2-8533-B928E40576CE}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,412 @@
+D:\NargesLogs\NargesLogs\bin\Debug\NargesLogs.exe.config
+D:\NargesLogs\NargesLogs\bin\Debug\NargesLogs.exe
+D:\NargesLogs\NargesLogs\bin\Debug\NargesLogs.pdb
+D:\NargesLogs\NargesLogs\obj\Debug\NargesLogs.csprojResolveAssemblyReference.cache
+D:\NargesLogs\NargesLogs\obj\Debug\MainWindow.g.cs
+D:\NargesLogs\NargesLogs\obj\Debug\App.g.cs
+D:\NargesLogs\NargesLogs\obj\Debug\NargesLogs_MarkupCompile.cache
+D:\NargesLogs\NargesLogs\obj\Debug\NargesLogs_MarkupCompile.lref
+D:\NargesLogs\NargesLogs\obj\Debug\MainWindow.baml
+D:\NargesLogs\NargesLogs\obj\Debug\NargesLogs.g.resources
+D:\NargesLogs\NargesLogs\obj\Debug\NargesLogs.Properties.Resources.resources
+D:\NargesLogs\NargesLogs\obj\Debug\NargesLogs.csproj.GenerateResource.Cache
+D:\NargesLogs\NargesLogs\obj\Debug\NargesLogs.csproj.CoreCompileInputs.cache
+D:\NargesLogs\NargesLogs\obj\Debug\NargesLogs.exe
+D:\NargesLogs\NargesLogs\obj\Debug\NargesLogs.pdb
+D:\NargesLogs\NargesLogs\obj\Debug\Patients List.g.cs
+D:\NargesLogs\NargesLogs\obj\Debug\Patients List.baml
+E:\NargesLogs\NargesLogs\bin\Debug\NargesLogs.exe.config
+E:\NargesLogs\NargesLogs\bin\Debug\NargesLogs.exe
+E:\NargesLogs\NargesLogs\bin\Debug\NargesLogs.pdb
+E:\NargesLogs\NargesLogs\obj\Debug\NargesLogs.csprojResolveAssemblyReference.cache
+E:\NargesLogs\NargesLogs\obj\Debug\MainWindow.g.cs
+E:\NargesLogs\NargesLogs\obj\Debug\Patient Details.g.cs
+E:\NargesLogs\NargesLogs\obj\Debug\Patients List.g.cs
+E:\NargesLogs\NargesLogs\obj\Debug\App.g.cs
+E:\NargesLogs\NargesLogs\obj\Debug\NargesLogs_MarkupCompile.cache
+E:\NargesLogs\NargesLogs\obj\Debug\NargesLogs_MarkupCompile.lref
+E:\NargesLogs\NargesLogs\obj\Debug\MainWindow.baml
+E:\NargesLogs\NargesLogs\obj\Debug\Patient Details.baml
+E:\NargesLogs\NargesLogs\obj\Debug\Patients List.baml
+E:\NargesLogs\NargesLogs\obj\Debug\NargesLogs.g.resources
+E:\NargesLogs\NargesLogs\obj\Debug\NargesLogs.Properties.Resources.resources
+E:\NargesLogs\NargesLogs\obj\Debug\NargesLogs.csproj.GenerateResource.Cache
+E:\NargesLogs\NargesLogs\obj\Debug\NargesLogs.exe
+E:\NargesLogs\NargesLogs\obj\Debug\NargesLogs.pdb
+D:\NargesLogs\NargesLogs\obj\Debug\Patient Details.g.cs
+D:\NargesLogs\NargesLogs\obj\Debug\Patient Details.baml
+E:\NargesLogs\NargesLogs\obj\Debug\Visit Details.g.cs
+E:\NargesLogs\NargesLogs\obj\Debug\Visit Details.baml
+E:\NargesLogs v0.21\NargesLogs\NargesLogs\obj\Debug\NargesLogs.csprojResolveAssemblyReference.cache
+E:\NargesLogs v0.21\NargesLogs\NargesLogs\obj\Debug\MainWindow.g.cs
+E:\NargesLogs v0.21\NargesLogs\NargesLogs\obj\Debug\Patient Details.g.cs
+E:\NargesLogs v0.21\NargesLogs\NargesLogs\obj\Debug\Patients List.g.cs
+E:\NargesLogs v0.21\NargesLogs\NargesLogs\obj\Debug\Visit Details.g.cs
+E:\NargesLogs v0.21\NargesLogs\NargesLogs\obj\Debug\App.g.cs
+E:\NargesLogs v0.21\NargesLogs\NargesLogs\obj\Debug\NargesLogs_MarkupCompile.cache
+E:\NargesLogs v0.21\NargesLogs\NargesLogs\obj\Debug\NargesLogs_MarkupCompile.lref
+E:\NargesLogs v0.21\NargesLogs\NargesLogs\obj\Debug\MainWindow.baml
+E:\NargesLogs v0.21\NargesLogs\NargesLogs\obj\Debug\Patients List.baml
+E:\NargesLogs v0.21\NargesLogs\NargesLogs\obj\Debug\Visit Details.baml
+E:\NargesLogs v0.21\NargesLogs\NargesLogs\obj\Debug\NargesLogs.exe
+E:\NargesLogs v0.21\NargesLogs\NargesLogs\obj\Debug\NargesLogs.pdb
+E:\NargesLogs v0.21\NargesLogs\NargesLogs\bin\Debug\NargesLogs.exe.config
+E:\NargesLogs v0.21\NargesLogs\NargesLogs\bin\Debug\NargesLogs.exe
+E:\NargesLogs v0.21\NargesLogs\NargesLogs\bin\Debug\NargesLogs.pdb
+E:\NargesLogs v0.21\NargesLogs\NargesLogs\obj\Debug\Patient Details.baml
+E:\NargesLogs v0.21\NargesLogs\NargesLogs\obj\Debug\NargesLogs.g.resources
+E:\NargesLogs v0.21\NargesLogs\NargesLogs\obj\Debug\NargesLogs.Properties.Resources.resources
+E:\NargesLogs v0.21\NargesLogs\NargesLogs\obj\Debug\NargesLogs.csproj.GenerateResource.Cache
+E:\NargesLogs v0.22\NargesLogs\NargesLogs\bin\Debug\NargesLogs.exe.config
+E:\NargesLogs v0.22\NargesLogs\NargesLogs\bin\Debug\NargesLogs.exe
+E:\NargesLogs v0.22\NargesLogs\NargesLogs\bin\Debug\NargesLogs.pdb
+E:\NargesLogs v0.22\NargesLogs\NargesLogs\obj\Debug\MainWindow.g.cs
+E:\NargesLogs v0.22\NargesLogs\NargesLogs\obj\Debug\Patient Details.g.cs
+E:\NargesLogs v0.22\NargesLogs\NargesLogs\obj\Debug\Patients List.g.cs
+E:\NargesLogs v0.22\NargesLogs\NargesLogs\obj\Debug\Visit Details.g.cs
+E:\NargesLogs v0.22\NargesLogs\NargesLogs\obj\Debug\App.g.cs
+E:\NargesLogs v0.22\NargesLogs\NargesLogs\obj\Debug\NargesLogs_MarkupCompile.cache
+E:\NargesLogs v0.22\NargesLogs\NargesLogs\obj\Debug\NargesLogs_MarkupCompile.lref
+E:\NargesLogs v0.22\NargesLogs\NargesLogs\obj\Debug\MainWindow.baml
+E:\NargesLogs v0.22\NargesLogs\NargesLogs\obj\Debug\Patient Details.baml
+E:\NargesLogs v0.22\NargesLogs\NargesLogs\obj\Debug\Patients List.baml
+E:\NargesLogs v0.22\NargesLogs\NargesLogs\obj\Debug\Visit Details.baml
+E:\NargesLogs v0.22\NargesLogs\NargesLogs\obj\Debug\NargesLogs.g.resources
+E:\NargesLogs v0.22\NargesLogs\NargesLogs\obj\Debug\NargesLogs.Properties.Resources.resources
+E:\NargesLogs v0.22\NargesLogs\NargesLogs\obj\Debug\NargesLogs.csproj.GenerateResource.Cache
+E:\NargesLogs v0.22\NargesLogs\NargesLogs\obj\Debug\NargesLogs.exe
+E:\NargesLogs v0.22\NargesLogs\NargesLogs\obj\Debug\NargesLogs.pdb
+D:\NargesLogs v0.22\NargesLogs\NargesLogs\bin\Debug\NargesLogs.exe.config
+D:\NargesLogs v0.22\NargesLogs\NargesLogs\bin\Debug\NargesLogs.exe
+D:\NargesLogs v0.22\NargesLogs\NargesLogs\bin\Debug\NargesLogs.pdb
+D:\NargesLogs v0.22\NargesLogs\NargesLogs\obj\Debug\NargesLogs.csprojResolveAssemblyReference.cache
+D:\NargesLogs v0.22\NargesLogs\NargesLogs\obj\Debug\MainWindow.g.cs
+D:\NargesLogs v0.22\NargesLogs\NargesLogs\obj\Debug\Patient Details.g.cs
+D:\NargesLogs v0.22\NargesLogs\NargesLogs\obj\Debug\Patients List.g.cs
+D:\NargesLogs v0.22\NargesLogs\NargesLogs\obj\Debug\Visit Details.g.cs
+D:\NargesLogs v0.22\NargesLogs\NargesLogs\obj\Debug\App.g.cs
+D:\NargesLogs v0.22\NargesLogs\NargesLogs\obj\Debug\NargesLogs_MarkupCompile.cache
+D:\NargesLogs v0.22\NargesLogs\NargesLogs\obj\Debug\NargesLogs_MarkupCompile.lref
+D:\NargesLogs v0.22\NargesLogs\NargesLogs\obj\Debug\MainWindow.baml
+D:\NargesLogs v0.22\NargesLogs\NargesLogs\obj\Debug\Patient Details.baml
+D:\NargesLogs v0.22\NargesLogs\NargesLogs\obj\Debug\Patients List.baml
+D:\NargesLogs v0.22\NargesLogs\NargesLogs\obj\Debug\Visit Details.baml
+D:\NargesLogs v0.22\NargesLogs\NargesLogs\obj\Debug\NargesLogs.g.resources
+D:\NargesLogs v0.22\NargesLogs\NargesLogs\obj\Debug\NargesLogs.Properties.Resources.resources
+D:\NargesLogs v0.22\NargesLogs\NargesLogs\obj\Debug\NargesLogs.csproj.GenerateResource.Cache
+D:\NargesLogs v0.22\NargesLogs\NargesLogs\obj\Debug\NargesLogs.csproj.CoreCompileInputs.cache
+D:\NargesLogs v0.22\NargesLogs\NargesLogs\obj\Debug\NargesLogs.exe
+D:\NargesLogs v0.22\NargesLogs\NargesLogs\obj\Debug\NargesLogs.pdb
+E:\NargesLogs v0.22\NargesLogs\NargesLogs\obj\Debug\NargesLogs.csprojResolveAssemblyReference.cache
+D:\NargesLogs\NargesLogs\NargesLogs\bin\Debug\NargesLogs.exe.config
+D:\NargesLogs\NargesLogs\NargesLogs\bin\Debug\NargesLogs.exe
+D:\NargesLogs\NargesLogs\NargesLogs\bin\Debug\NargesLogs.pdb
+D:\NargesLogs\NargesLogs\NargesLogs\obj\Debug\NargesLogs.csprojResolveAssemblyReference.cache
+D:\NargesLogs\NargesLogs\NargesLogs\obj\Debug\MainWindow.g.cs
+D:\NargesLogs\NargesLogs\NargesLogs\obj\Debug\Patient Details.g.cs
+D:\NargesLogs\NargesLogs\NargesLogs\obj\Debug\Patients List.g.cs
+D:\NargesLogs\NargesLogs\NargesLogs\obj\Debug\Visit Details.g.cs
+D:\NargesLogs\NargesLogs\NargesLogs\obj\Debug\App.g.cs
+D:\NargesLogs\NargesLogs\NargesLogs\obj\Debug\NargesLogs_MarkupCompile.cache
+D:\NargesLogs\NargesLogs\NargesLogs\obj\Debug\NargesLogs_MarkupCompile.lref
+D:\NargesLogs\NargesLogs\NargesLogs\obj\Debug\MainWindow.baml
+D:\NargesLogs\NargesLogs\NargesLogs\obj\Debug\Patient Details.baml
+D:\NargesLogs\NargesLogs\NargesLogs\obj\Debug\Patients List.baml
+D:\NargesLogs\NargesLogs\NargesLogs\obj\Debug\Visit Details.baml
+D:\NargesLogs\NargesLogs\NargesLogs\obj\Debug\NargesLogs.g.resources
+D:\NargesLogs\NargesLogs\NargesLogs\obj\Debug\NargesLogs.Properties.Resources.resources
+D:\NargesLogs\NargesLogs\NargesLogs\obj\Debug\NargesLogs.csproj.GenerateResource.Cache
+D:\NargesLogs\NargesLogs\NargesLogs\obj\Debug\NargesLogs.csproj.CoreCompileInputs.cache
+D:\NargesLogs\NargesLogs\NargesLogs\obj\Debug\NargesLogs.exe
+D:\NargesLogs\NargesLogs\NargesLogs\obj\Debug\NargesLogs.pdb
+E:\NargesLogs\NargesLogs\NargesLogs\bin\Debug\NargesLogs.exe.config
+E:\NargesLogs\NargesLogs\NargesLogs\bin\Debug\NargesLogs.exe
+E:\NargesLogs\NargesLogs\NargesLogs\bin\Debug\NargesLogs.pdb
+E:\NargesLogs\NargesLogs\NargesLogs\obj\Debug\MainWindow.g.cs
+E:\NargesLogs\NargesLogs\NargesLogs\obj\Debug\Patient Details.g.cs
+E:\NargesLogs\NargesLogs\NargesLogs\obj\Debug\Patients List.g.cs
+E:\NargesLogs\NargesLogs\NargesLogs\obj\Debug\Visit Details.g.cs
+E:\NargesLogs\NargesLogs\NargesLogs\obj\Debug\App.g.cs
+E:\NargesLogs\NargesLogs\NargesLogs\obj\Debug\NargesLogs_MarkupCompile.cache
+E:\NargesLogs\NargesLogs\NargesLogs\obj\Debug\NargesLogs_MarkupCompile.lref
+E:\NargesLogs\NargesLogs\NargesLogs\obj\Debug\MainWindow.baml
+E:\NargesLogs\NargesLogs\NargesLogs\obj\Debug\Patient Details.baml
+E:\NargesLogs\NargesLogs\NargesLogs\obj\Debug\Patients List.baml
+E:\NargesLogs\NargesLogs\NargesLogs\obj\Debug\Visit Details.baml
+E:\NargesLogs\NargesLogs\NargesLogs\obj\Debug\NargesLogs.g.resources
+E:\NargesLogs\NargesLogs\NargesLogs\obj\Debug\NargesLogs.Properties.Resources.resources
+E:\NargesLogs\NargesLogs\NargesLogs\obj\Debug\NargesLogs.csproj.GenerateResource.Cache
+E:\NargesLogs\NargesLogs\NargesLogs\obj\Debug\NargesLogs.exe
+E:\NargesLogs\NargesLogs\NargesLogs\obj\Debug\NargesLogs.pdb
+E:\NargesLogs\NargesLogs\NargesLogs\obj\Debug\NargesLogs.csprojResolveAssemblyReference.cache
+C:\Users\eilia\Downloads\NargesLogs\NargesLogs\bin\Debug\NargesLogs.exe.config
+C:\Users\eilia\Downloads\NargesLogs\NargesLogs\bin\Debug\NargesLogs.exe
+C:\Users\eilia\Downloads\NargesLogs\NargesLogs\bin\Debug\NargesLogs.pdb
+C:\Users\eilia\Downloads\NargesLogs\NargesLogs\obj\Debug\NargesLogs.csprojResolveAssemblyReference.cache
+C:\Users\eilia\Downloads\NargesLogs\NargesLogs\obj\Debug\MainWindow.g.cs
+C:\Users\eilia\Downloads\NargesLogs\NargesLogs\obj\Debug\Patient Details.g.cs
+C:\Users\eilia\Downloads\NargesLogs\NargesLogs\obj\Debug\Patients List.g.cs
+C:\Users\eilia\Downloads\NargesLogs\NargesLogs\obj\Debug\Visit Details.g.cs
+C:\Users\eilia\Downloads\NargesLogs\NargesLogs\obj\Debug\App.g.cs
+C:\Users\eilia\Downloads\NargesLogs\NargesLogs\obj\Debug\NargesLogs_MarkupCompile.cache
+C:\Users\eilia\Downloads\NargesLogs\NargesLogs\obj\Debug\NargesLogs_MarkupCompile.lref
+C:\Users\eilia\Downloads\NargesLogs\NargesLogs\obj\Debug\MainWindow.baml
+C:\Users\eilia\Downloads\NargesLogs\NargesLogs\obj\Debug\Patient Details.baml
+C:\Users\eilia\Downloads\NargesLogs\NargesLogs\obj\Debug\Patients List.baml
+C:\Users\eilia\Downloads\NargesLogs\NargesLogs\obj\Debug\Visit Details.baml
+C:\Users\eilia\Downloads\NargesLogs\NargesLogs\obj\Debug\NargesLogs.g.resources
+C:\Users\eilia\Downloads\NargesLogs\NargesLogs\obj\Debug\NargesLogs.Properties.Resources.resources
+C:\Users\eilia\Downloads\NargesLogs\NargesLogs\obj\Debug\NargesLogs.csproj.GenerateResource.Cache
+C:\Users\eilia\Downloads\NargesLogs\NargesLogs\obj\Debug\NargesLogs.exe
+C:\Users\eilia\Downloads\NargesLogs\NargesLogs\obj\Debug\NargesLogs.pdb
+C:\Users\eilia\Downloads\NargesLogs\NargesLogs\obj\Debug\NargesLogs_Content.g.cs
+C:\Users\eilia\Downloads\NargesLogs\NargesLogs\bin\Debug\Add Image Graphic 2.png
+D:\Downloads\NargesLogs\NargesLogs\bin\Debug\NargesLogs.exe.config
+D:\Downloads\NargesLogs\NargesLogs\bin\Debug\NargesLogs.exe
+D:\Downloads\NargesLogs\NargesLogs\bin\Debug\NargesLogs.pdb
+D:\Downloads\NargesLogs\NargesLogs\obj\Debug\App.g.cs
+D:\Downloads\NargesLogs\NargesLogs\obj\Debug\NargesLogs_Content.g.cs
+D:\Downloads\NargesLogs\NargesLogs\obj\Debug\NargesLogs_MarkupCompile.cache
+D:\Downloads\NargesLogs\NargesLogs\obj\Debug\NargesLogs_MarkupCompile.lref
+D:\Downloads\NargesLogs\NargesLogs\obj\Debug\NargesLogs.g.resources
+D:\Downloads\NargesLogs\NargesLogs\obj\Debug\NargesLogs.Properties.Resources.resources
+D:\Downloads\NargesLogs\NargesLogs\obj\Debug\NargesLogs.csproj.GenerateResource.Cache
+D:\Downloads\NargesLogs\NargesLogs\obj\Debug\NargesLogs.exe
+D:\Downloads\NargesLogs\NargesLogs\obj\Debug\NargesLogs.pdb
+C:\Users\eilia.keyhanee1\Downloads\NargesLogs\NargesLogs\bin\Debug\Add Image Graphic 2.png
+C:\Users\eilia.keyhanee1\Downloads\NargesLogs\NargesLogs\bin\Debug\NargesLogs.exe.config
+C:\Users\eilia.keyhanee1\Downloads\NargesLogs\NargesLogs\bin\Debug\NargesLogs.exe
+C:\Users\eilia.keyhanee1\Downloads\NargesLogs\NargesLogs\bin\Debug\NargesLogs.pdb
+C:\Users\eilia.keyhanee1\Downloads\NargesLogs\NargesLogs\obj\Debug\NargesLogs.csprojResolveAssemblyReference.cache
+C:\Users\eilia.keyhanee1\Downloads\NargesLogs\NargesLogs\obj\Debug\Home Page.g.cs
+C:\Users\eilia.keyhanee1\Downloads\NargesLogs\NargesLogs\obj\Debug\MainWindow.g.cs
+C:\Users\eilia.keyhanee1\Downloads\NargesLogs\NargesLogs\obj\Debug\Patient Details.g.cs
+C:\Users\eilia.keyhanee1\Downloads\NargesLogs\NargesLogs\obj\Debug\Patients List.g.cs
+C:\Users\eilia.keyhanee1\Downloads\NargesLogs\NargesLogs\obj\Debug\Visit Details.g.cs
+C:\Users\eilia.keyhanee1\Downloads\NargesLogs\NargesLogs\obj\Debug\App.g.cs
+C:\Users\eilia.keyhanee1\Downloads\NargesLogs\NargesLogs\obj\Debug\NargesLogs_Content.g.cs
+C:\Users\eilia.keyhanee1\Downloads\NargesLogs\NargesLogs\obj\Debug\NargesLogs_MarkupCompile.cache
+C:\Users\eilia.keyhanee1\Downloads\NargesLogs\NargesLogs\obj\Debug\NargesLogs_MarkupCompile.lref
+C:\Users\eilia.keyhanee1\Downloads\NargesLogs\NargesLogs\obj\Debug\Home Page.baml
+C:\Users\eilia.keyhanee1\Downloads\NargesLogs\NargesLogs\obj\Debug\MainWindow.baml
+C:\Users\eilia.keyhanee1\Downloads\NargesLogs\NargesLogs\obj\Debug\Patient Details.baml
+C:\Users\eilia.keyhanee1\Downloads\NargesLogs\NargesLogs\obj\Debug\Patients List.baml
+C:\Users\eilia.keyhanee1\Downloads\NargesLogs\NargesLogs\obj\Debug\Visit Details.baml
+C:\Users\eilia.keyhanee1\Downloads\NargesLogs\NargesLogs\obj\Debug\NargesLogs.g.resources
+C:\Users\eilia.keyhanee1\Downloads\NargesLogs\NargesLogs\obj\Debug\NargesLogs.Properties.Resources.resources
+C:\Users\eilia.keyhanee1\Downloads\NargesLogs\NargesLogs\obj\Debug\NargesLogs.csproj.GenerateResource.Cache
+C:\Users\eilia.keyhanee1\Downloads\NargesLogs\NargesLogs\obj\Debug\NargesLogs.csproj.CoreCompileInputs.cache
+C:\Users\eilia.keyhanee1\Downloads\NargesLogs\NargesLogs\obj\Debug\NargesLogs.exe
+C:\Users\eilia.keyhanee1\Downloads\NargesLogs\NargesLogs\obj\Debug\NargesLogs.pdb
+C:\Users\eilia.keyhanee1\Downloads\NargesLogs v0.62\NargesLogs\NargesLogs\bin\Debug\Add Image Graphic 2.png
+C:\Users\eilia.keyhanee1\Downloads\NargesLogs v0.62\NargesLogs\NargesLogs\bin\Debug\NargesLogs.exe.config
+C:\Users\eilia.keyhanee1\Downloads\NargesLogs v0.62\NargesLogs\NargesLogs\bin\Debug\NargesLogs.exe
+C:\Users\eilia.keyhanee1\Downloads\NargesLogs v0.62\NargesLogs\NargesLogs\bin\Debug\NargesLogs.pdb
+C:\Users\eilia.keyhanee1\Downloads\NargesLogs v0.62\NargesLogs\NargesLogs\obj\Debug\NargesLogs.csprojResolveAssemblyReference.cache
+C:\Users\eilia.keyhanee1\Downloads\NargesLogs v0.62\NargesLogs\NargesLogs\obj\Debug\Home Page.g.cs
+C:\Users\eilia.keyhanee1\Downloads\NargesLogs v0.62\NargesLogs\NargesLogs\obj\Debug\MainWindow.g.cs
+C:\Users\eilia.keyhanee1\Downloads\NargesLogs v0.62\NargesLogs\NargesLogs\obj\Debug\Patient Details.g.cs
+C:\Users\eilia.keyhanee1\Downloads\NargesLogs v0.62\NargesLogs\NargesLogs\obj\Debug\Patients List.g.cs
+C:\Users\eilia.keyhanee1\Downloads\NargesLogs v0.62\NargesLogs\NargesLogs\obj\Debug\Visit Details.g.cs
+C:\Users\eilia.keyhanee1\Downloads\NargesLogs v0.62\NargesLogs\NargesLogs\obj\Debug\App.g.cs
+C:\Users\eilia.keyhanee1\Downloads\NargesLogs v0.62\NargesLogs\NargesLogs\obj\Debug\NargesLogs_Content.g.cs
+C:\Users\eilia.keyhanee1\Downloads\NargesLogs v0.62\NargesLogs\NargesLogs\obj\Debug\NargesLogs_MarkupCompile.cache
+C:\Users\eilia.keyhanee1\Downloads\NargesLogs v0.62\NargesLogs\NargesLogs\obj\Debug\NargesLogs_MarkupCompile.lref
+C:\Users\eilia.keyhanee1\Downloads\NargesLogs v0.62\NargesLogs\NargesLogs\obj\Debug\Home Page.baml
+C:\Users\eilia.keyhanee1\Downloads\NargesLogs v0.62\NargesLogs\NargesLogs\obj\Debug\MainWindow.baml
+C:\Users\eilia.keyhanee1\Downloads\NargesLogs v0.62\NargesLogs\NargesLogs\obj\Debug\Patient Details.baml
+C:\Users\eilia.keyhanee1\Downloads\NargesLogs v0.62\NargesLogs\NargesLogs\obj\Debug\Patients List.baml
+C:\Users\eilia.keyhanee1\Downloads\NargesLogs v0.62\NargesLogs\NargesLogs\obj\Debug\Visit Details.baml
+C:\Users\eilia.keyhanee1\Downloads\NargesLogs v0.62\NargesLogs\NargesLogs\obj\Debug\NargesLogs.g.resources
+C:\Users\eilia.keyhanee1\Downloads\NargesLogs v0.62\NargesLogs\NargesLogs\obj\Debug\NargesLogs.Properties.Resources.resources
+C:\Users\eilia.keyhanee1\Downloads\NargesLogs v0.62\NargesLogs\NargesLogs\obj\Debug\NargesLogs.csproj.GenerateResource.Cache
+C:\Users\eilia.keyhanee1\Downloads\NargesLogs v0.62\NargesLogs\NargesLogs\obj\Debug\NargesLogs.csproj.CoreCompileInputs.cache
+C:\Users\eilia.keyhanee1\Downloads\NargesLogs v0.62\NargesLogs\NargesLogs\obj\Debug\NargesLogs.exe
+C:\Users\eilia.keyhanee1\Downloads\NargesLogs v0.62\NargesLogs\NargesLogs\obj\Debug\NargesLogs.pdb
+D:\Downloads\NargesLogs v0.62\NargesLogs\NargesLogs\bin\Debug\Add Image Graphic 2.png
+D:\Downloads\NargesLogs v0.62\NargesLogs\NargesLogs\bin\Debug\NargesLogs.exe.config
+D:\Downloads\NargesLogs v0.62\NargesLogs\NargesLogs\bin\Debug\NargesLogs.exe
+D:\Downloads\NargesLogs v0.62\NargesLogs\NargesLogs\obj\Debug\NargesLogs.csprojResolveAssemblyReference.cache
+D:\Downloads\NargesLogs v0.62\NargesLogs\NargesLogs\obj\Debug\Home Page.g.cs
+D:\Downloads\NargesLogs v0.62\NargesLogs\NargesLogs\obj\Debug\MainWindow.g.cs
+D:\Downloads\NargesLogs v0.62\NargesLogs\NargesLogs\obj\Debug\Patient Details.g.cs
+D:\Downloads\NargesLogs v0.62\NargesLogs\NargesLogs\obj\Debug\Patients List.g.cs
+D:\Downloads\NargesLogs v0.62\NargesLogs\NargesLogs\obj\Debug\Visit Details.g.cs
+D:\Downloads\NargesLogs v0.62\NargesLogs\NargesLogs\obj\Debug\App.g.cs
+D:\Downloads\NargesLogs v0.62\NargesLogs\NargesLogs\obj\Debug\NargesLogs_Content.g.cs
+D:\Downloads\NargesLogs v0.62\NargesLogs\NargesLogs\obj\Debug\NargesLogs_MarkupCompile.cache
+D:\Downloads\NargesLogs v0.62\NargesLogs\NargesLogs\obj\Debug\NargesLogs_MarkupCompile.lref
+D:\Downloads\NargesLogs v0.62\NargesLogs\NargesLogs\obj\Debug\Home Page.baml
+D:\Downloads\NargesLogs v0.62\NargesLogs\NargesLogs\obj\Debug\MainWindow.baml
+D:\Downloads\NargesLogs v0.62\NargesLogs\NargesLogs\obj\Debug\Patient Details.baml
+D:\Downloads\NargesLogs v0.62\NargesLogs\NargesLogs\obj\Debug\Patients List.baml
+D:\Downloads\NargesLogs v0.62\NargesLogs\NargesLogs\obj\Debug\Visit Details.baml
+D:\Downloads\NargesLogs v0.62\NargesLogs\NargesLogs\obj\Debug\NargesLogs.g.resources
+D:\Downloads\NargesLogs v0.62\NargesLogs\NargesLogs\obj\Debug\NargesLogs.Properties.Resources.resources
+D:\Downloads\NargesLogs v0.62\NargesLogs\NargesLogs\obj\Debug\NargesLogs.csproj.GenerateResource.Cache
+D:\Downloads\NargesLogs v0.62\NargesLogs\NargesLogs\obj\Debug\NargesLogs.exe
+D:\Downloads\NargesLogs v0.62\NargesLogs\NargesLogs\obj\Debug\NargesLogs.pdb
+D:\Downloads\NargesLogs v0.62\NargesLogs\NargesLogs\bin\Debug\NargesLogs.pdb
+D:\Downloads\Old Version\NargesLogs\NargesLogs\bin\Debug\Add Image Graphic 2.png
+D:\Downloads\Old Version\NargesLogs\NargesLogs\bin\Debug\NargesLogs.exe.config
+D:\Downloads\Old Version\NargesLogs\NargesLogs\bin\Debug\NargesLogs.exe
+D:\Downloads\Old Version\NargesLogs\NargesLogs\bin\Debug\NargesLogs.pdb
+D:\Downloads\Old Version\NargesLogs\NargesLogs\obj\Debug\Home Page.g.cs
+D:\Downloads\Old Version\NargesLogs\NargesLogs\obj\Debug\MainWindow.g.cs
+D:\Downloads\Old Version\NargesLogs\NargesLogs\obj\Debug\Patient Details.g.cs
+D:\Downloads\Old Version\NargesLogs\NargesLogs\obj\Debug\Patients List.g.cs
+D:\Downloads\Old Version\NargesLogs\NargesLogs\obj\Debug\Visit Details.g.cs
+D:\Downloads\Old Version\NargesLogs\NargesLogs\obj\Debug\App.g.cs
+D:\Downloads\Old Version\NargesLogs\NargesLogs\obj\Debug\NargesLogs_Content.g.cs
+D:\Downloads\Old Version\NargesLogs\NargesLogs\obj\Debug\NargesLogs_MarkupCompile.cache
+D:\Downloads\Old Version\NargesLogs\NargesLogs\obj\Debug\NargesLogs_MarkupCompile.lref
+D:\Downloads\Old Version\NargesLogs\NargesLogs\obj\Debug\Home Page.baml
+D:\Downloads\Old Version\NargesLogs\NargesLogs\obj\Debug\MainWindow.baml
+D:\Downloads\Old Version\NargesLogs\NargesLogs\obj\Debug\Patient Details.baml
+D:\Downloads\Old Version\NargesLogs\NargesLogs\obj\Debug\Patients List.baml
+D:\Downloads\Old Version\NargesLogs\NargesLogs\obj\Debug\Visit Details.baml
+D:\Downloads\Old Version\NargesLogs\NargesLogs\obj\Debug\NargesLogs.g.resources
+D:\Downloads\Old Version\NargesLogs\NargesLogs\obj\Debug\NargesLogs.Properties.Resources.resources
+D:\Downloads\Old Version\NargesLogs\NargesLogs\obj\Debug\NargesLogs.csproj.GenerateResource.Cache
+D:\Downloads\Old Version\NargesLogs\NargesLogs\obj\Debug\NargesLogs.exe
+D:\Downloads\Old Version\NargesLogs\NargesLogs\obj\Debug\NargesLogs.pdb
+D:\Downloads\Old Version\NargesLogs\NargesLogs\obj\Debug\NargesLogs.csprojResolveAssemblyReference.cache
+D:\Downloads\Old\NargesLogs\NargesLogs\obj\Debug\NargesLogs.csprojResolveAssemblyReference.cache
+D:\Downloads\Old\NargesLogs\NargesLogs\obj\Debug\Home Page.g.cs
+D:\Downloads\Old\NargesLogs\NargesLogs\obj\Debug\MainWindow.g.cs
+D:\Downloads\Old\NargesLogs\NargesLogs\obj\Debug\Patient Details.g.cs
+D:\Downloads\Old\NargesLogs\NargesLogs\obj\Debug\Patients List.g.cs
+D:\Downloads\Old\NargesLogs\NargesLogs\obj\Debug\Visit Details.g.cs
+D:\Downloads\Old\NargesLogs\NargesLogs\obj\Debug\App.g.cs
+D:\Downloads\Old\NargesLogs\NargesLogs\obj\Debug\NargesLogs_Content.g.cs
+D:\Downloads\Old\NargesLogs\NargesLogs\obj\Debug\NargesLogs_MarkupCompile.cache
+D:\Downloads\Old\NargesLogs\NargesLogs\obj\Debug\NargesLogs_MarkupCompile.lref
+D:\Downloads\Old\NargesLogs\NargesLogs\obj\Debug\NargesLogs.exe
+D:\Downloads\Old\NargesLogs\NargesLogs\obj\Debug\NargesLogs.pdb
+D:\Downloads\Old\NargesLogs\NargesLogs\bin\Debug\Add Image Graphic 2.png
+D:\Downloads\Old\NargesLogs\NargesLogs\bin\Debug\NargesLogs.exe.config
+D:\Downloads\Old\NargesLogs\NargesLogs\bin\Debug\NargesLogs.exe
+D:\Downloads\Old\NargesLogs\NargesLogs\bin\Debug\NargesLogs.pdb
+D:\Downloads\Old\NargesLogs\NargesLogs\obj\Debug\Home Page.baml
+D:\Downloads\Old\NargesLogs\NargesLogs\obj\Debug\MainWindow.baml
+D:\Downloads\Old\NargesLogs\NargesLogs\obj\Debug\Patient Details.baml
+D:\Downloads\Old\NargesLogs\NargesLogs\obj\Debug\Patients List.baml
+D:\Downloads\Old\NargesLogs\NargesLogs\obj\Debug\Visit Details.baml
+D:\Downloads\Old\NargesLogs\NargesLogs\obj\Debug\NargesLogs.g.resources
+D:\Downloads\Old\NargesLogs\NargesLogs\obj\Debug\NargesLogs.Properties.Resources.resources
+D:\Downloads\Old\NargesLogs\NargesLogs\obj\Debug\NargesLogs.csproj.GenerateResource.Cache
+C:\Users\eilia.keyhanee1\Downloads\NargesLogs v0.73\NargesLogs\NargesLogs\bin\Debug\Add Image Graphic 2.png
+C:\Users\eilia.keyhanee1\Downloads\NargesLogs v0.73\NargesLogs\NargesLogs\bin\Debug\NargesLogs.exe.config
+C:\Users\eilia.keyhanee1\Downloads\NargesLogs v0.73\NargesLogs\NargesLogs\bin\Debug\NargesLogs.exe
+C:\Users\eilia.keyhanee1\Downloads\NargesLogs v0.73\NargesLogs\NargesLogs\bin\Debug\NargesLogs.pdb
+C:\Users\eilia.keyhanee1\Downloads\NargesLogs v0.73\NargesLogs\NargesLogs\obj\Debug\NargesLogs.csprojResolveAssemblyReference.cache
+C:\Users\eilia.keyhanee1\Downloads\NargesLogs v0.73\NargesLogs\NargesLogs\obj\Debug\Home Page.g.cs
+C:\Users\eilia.keyhanee1\Downloads\NargesLogs v0.73\NargesLogs\NargesLogs\obj\Debug\MainWindow.g.cs
+C:\Users\eilia.keyhanee1\Downloads\NargesLogs v0.73\NargesLogs\NargesLogs\obj\Debug\Patient Details.g.cs
+C:\Users\eilia.keyhanee1\Downloads\NargesLogs v0.73\NargesLogs\NargesLogs\obj\Debug\Patients List.g.cs
+C:\Users\eilia.keyhanee1\Downloads\NargesLogs v0.73\NargesLogs\NargesLogs\obj\Debug\Visit Details.g.cs
+C:\Users\eilia.keyhanee1\Downloads\NargesLogs v0.73\NargesLogs\NargesLogs\obj\Debug\App.g.cs
+C:\Users\eilia.keyhanee1\Downloads\NargesLogs v0.73\NargesLogs\NargesLogs\obj\Debug\NargesLogs_Content.g.cs
+C:\Users\eilia.keyhanee1\Downloads\NargesLogs v0.73\NargesLogs\NargesLogs\obj\Debug\NargesLogs_MarkupCompile.cache
+C:\Users\eilia.keyhanee1\Downloads\NargesLogs v0.73\NargesLogs\NargesLogs\obj\Debug\NargesLogs_MarkupCompile.lref
+C:\Users\eilia.keyhanee1\Downloads\NargesLogs v0.73\NargesLogs\NargesLogs\obj\Debug\Home Page.baml
+C:\Users\eilia.keyhanee1\Downloads\NargesLogs v0.73\NargesLogs\NargesLogs\obj\Debug\MainWindow.baml
+C:\Users\eilia.keyhanee1\Downloads\NargesLogs v0.73\NargesLogs\NargesLogs\obj\Debug\Patient Details.baml
+C:\Users\eilia.keyhanee1\Downloads\NargesLogs v0.73\NargesLogs\NargesLogs\obj\Debug\Patients List.baml
+C:\Users\eilia.keyhanee1\Downloads\NargesLogs v0.73\NargesLogs\NargesLogs\obj\Debug\Visit Details.baml
+C:\Users\eilia.keyhanee1\Downloads\NargesLogs v0.73\NargesLogs\NargesLogs\obj\Debug\NargesLogs.g.resources
+C:\Users\eilia.keyhanee1\Downloads\NargesLogs v0.73\NargesLogs\NargesLogs\obj\Debug\NargesLogs.Properties.Resources.resources
+C:\Users\eilia.keyhanee1\Downloads\NargesLogs v0.73\NargesLogs\NargesLogs\obj\Debug\NargesLogs.csproj.GenerateResource.Cache
+C:\Users\eilia.keyhanee1\Downloads\NargesLogs v0.73\NargesLogs\NargesLogs\obj\Debug\NargesLogs.csproj.CoreCompileInputs.cache
+C:\Users\eilia.keyhanee1\Downloads\NargesLogs v0.73\NargesLogs\NargesLogs\obj\Debug\NargesLogs.exe
+C:\Users\eilia.keyhanee1\Downloads\NargesLogs v0.73\NargesLogs\NargesLogs\obj\Debug\NargesLogs.pdb
+D:\Downloads\NargesLogs v0.73\NargesLogs\NargesLogs\obj\Debug\NargesLogs.csprojResolveAssemblyReference.cache
+D:\Downloads\NargesLogs v0.73\NargesLogs\NargesLogs\obj\Debug\Home Page.g.cs
+D:\Downloads\NargesLogs v0.73\NargesLogs\NargesLogs\obj\Debug\MainWindow.g.cs
+D:\Downloads\NargesLogs v0.73\NargesLogs\NargesLogs\obj\Debug\Patient Details.g.cs
+D:\Downloads\NargesLogs v0.73\NargesLogs\NargesLogs\obj\Debug\Visit Details.g.cs
+D:\Downloads\NargesLogs v0.73\NargesLogs\NargesLogs\obj\Debug\App.g.cs
+D:\Downloads\NargesLogs v0.73\NargesLogs\NargesLogs\obj\Debug\NargesLogs_Content.g.cs
+D:\Downloads\NargesLogs v0.73\NargesLogs\NargesLogs\obj\Debug\NargesLogs_MarkupCompile.cache
+D:\Downloads\NargesLogs v0.73\NargesLogs\NargesLogs\obj\Debug\NargesLogs_MarkupCompile.lref
+D:\Downloads\NargesLogs v0.73\NargesLogs\NargesLogs\obj\Debug\NargesLogs.exe
+D:\Downloads\NargesLogs v0.73\NargesLogs\NargesLogs\obj\Debug\NargesLogs.pdb
+D:\Downloads\NargesLogs v0.73\NargesLogs\NargesLogs\bin\Debug\Add Image Graphic 2.png
+D:\Downloads\NargesLogs v0.73\NargesLogs\NargesLogs\bin\Debug\NargesLogs.exe.config
+D:\Downloads\NargesLogs v0.73\NargesLogs\NargesLogs\bin\Debug\NargesLogs.exe
+D:\Downloads\NargesLogs v0.73\NargesLogs\NargesLogs\bin\Debug\NargesLogs.pdb
+D:\Downloads\NargesLogs v0.73\NargesLogs\NargesLogs\obj\Debug\Patients List.g.cs
+D:\Downloads\NargesLogs v0.73\NargesLogs\NargesLogs\obj\Debug\Home Page.baml
+D:\Downloads\NargesLogs v0.73\NargesLogs\NargesLogs\obj\Debug\MainWindow.baml
+D:\Downloads\NargesLogs v0.73\NargesLogs\NargesLogs\obj\Debug\Patient Details.baml
+D:\Downloads\NargesLogs v0.73\NargesLogs\NargesLogs\obj\Debug\Patients List.baml
+D:\Downloads\NargesLogs v0.73\NargesLogs\NargesLogs\obj\Debug\Visit Details.baml
+D:\Downloads\NargesLogs v0.73\NargesLogs\NargesLogs\obj\Debug\NargesLogs.g.resources
+D:\Downloads\NargesLogs v0.73\NargesLogs\NargesLogs\obj\Debug\NargesLogs.Properties.Resources.resources
+D:\Downloads\NargesLogs v0.73\NargesLogs\NargesLogs\obj\Debug\NargesLogs.csproj.GenerateResource.Cache
+C:\Users\eilia.keyhanee1\Downloads\NargesLogs v0.77\NargesLogs\NargesLogs\bin\Debug\Add Image Graphic 2.png
+C:\Users\eilia.keyhanee1\Downloads\NargesLogs v0.77\NargesLogs\NargesLogs\bin\Debug\NargesLogs.exe.config
+C:\Users\eilia.keyhanee1\Downloads\NargesLogs v0.77\NargesLogs\NargesLogs\bin\Debug\NargesLogs.exe
+C:\Users\eilia.keyhanee1\Downloads\NargesLogs v0.77\NargesLogs\NargesLogs\bin\Debug\NargesLogs.pdb
+C:\Users\eilia.keyhanee1\Downloads\NargesLogs v0.77\NargesLogs\NargesLogs\obj\Debug\NargesLogs.csprojResolveAssemblyReference.cache
+C:\Users\eilia.keyhanee1\Downloads\NargesLogs v0.77\NargesLogs\NargesLogs\obj\Debug\Home Page.g.cs
+C:\Users\eilia.keyhanee1\Downloads\NargesLogs v0.77\NargesLogs\NargesLogs\obj\Debug\MainWindow.g.cs
+C:\Users\eilia.keyhanee1\Downloads\NargesLogs v0.77\NargesLogs\NargesLogs\obj\Debug\Patient Details.g.cs
+C:\Users\eilia.keyhanee1\Downloads\NargesLogs v0.77\NargesLogs\NargesLogs\obj\Debug\Patients List.g.cs
+C:\Users\eilia.keyhanee1\Downloads\NargesLogs v0.77\NargesLogs\NargesLogs\obj\Debug\Settings.g.cs
+C:\Users\eilia.keyhanee1\Downloads\NargesLogs v0.77\NargesLogs\NargesLogs\obj\Debug\Visit Details.g.cs
+C:\Users\eilia.keyhanee1\Downloads\NargesLogs v0.77\NargesLogs\NargesLogs\obj\Debug\App.g.cs
+C:\Users\eilia.keyhanee1\Downloads\NargesLogs v0.77\NargesLogs\NargesLogs\obj\Debug\NargesLogs_Content.g.cs
+C:\Users\eilia.keyhanee1\Downloads\NargesLogs v0.77\NargesLogs\NargesLogs\obj\Debug\NargesLogs_MarkupCompile.cache
+C:\Users\eilia.keyhanee1\Downloads\NargesLogs v0.77\NargesLogs\NargesLogs\obj\Debug\NargesLogs_MarkupCompile.lref
+C:\Users\eilia.keyhanee1\Downloads\NargesLogs v0.77\NargesLogs\NargesLogs\obj\Debug\Home Page.baml
+C:\Users\eilia.keyhanee1\Downloads\NargesLogs v0.77\NargesLogs\NargesLogs\obj\Debug\MainWindow.baml
+C:\Users\eilia.keyhanee1\Downloads\NargesLogs v0.77\NargesLogs\NargesLogs\obj\Debug\Patient Details.baml
+C:\Users\eilia.keyhanee1\Downloads\NargesLogs v0.77\NargesLogs\NargesLogs\obj\Debug\Patients List.baml
+C:\Users\eilia.keyhanee1\Downloads\NargesLogs v0.77\NargesLogs\NargesLogs\obj\Debug\Settings.baml
+C:\Users\eilia.keyhanee1\Downloads\NargesLogs v0.77\NargesLogs\NargesLogs\obj\Debug\Visit Details.baml
+C:\Users\eilia.keyhanee1\Downloads\NargesLogs v0.77\NargesLogs\NargesLogs\obj\Debug\NargesLogs.g.resources
+C:\Users\eilia.keyhanee1\Downloads\NargesLogs v0.77\NargesLogs\NargesLogs\obj\Debug\NargesLogs.Properties.Resources.resources
+C:\Users\eilia.keyhanee1\Downloads\NargesLogs v0.77\NargesLogs\NargesLogs\obj\Debug\NargesLogs.csproj.GenerateResource.Cache
+C:\Users\eilia.keyhanee1\Downloads\NargesLogs v0.77\NargesLogs\NargesLogs\obj\Debug\NargesLogs.csproj.CoreCompileInputs.cache
+C:\Users\eilia.keyhanee1\Downloads\NargesLogs v0.77\NargesLogs\NargesLogs\obj\Debug\NargesLogs.exe
+C:\Users\eilia.keyhanee1\Downloads\NargesLogs v0.77\NargesLogs\NargesLogs\obj\Debug\NargesLogs.pdb
+D:\Downloads\NargesLogs v0.77\NargesLogs\NargesLogs\bin\Debug\Add Image Graphic 2.png
+D:\Downloads\NargesLogs v0.77\NargesLogs\NargesLogs\bin\Debug\NargesLogs.exe.config
+D:\Downloads\NargesLogs v0.77\NargesLogs\NargesLogs\bin\Debug\NargesLogs.exe
+D:\Downloads\NargesLogs v0.77\NargesLogs\NargesLogs\bin\Debug\NargesLogs.pdb
+D:\Downloads\NargesLogs v0.77\NargesLogs\NargesLogs\obj\Debug\NargesLogs.csprojResolveAssemblyReference.cache
+D:\Downloads\NargesLogs v0.77\NargesLogs\NargesLogs\obj\Debug\Home Page.g.cs
+D:\Downloads\NargesLogs v0.77\NargesLogs\NargesLogs\obj\Debug\MainWindow.g.cs
+D:\Downloads\NargesLogs v0.77\NargesLogs\NargesLogs\obj\Debug\Patient Details.g.cs
+D:\Downloads\NargesLogs v0.77\NargesLogs\NargesLogs\obj\Debug\Patients List.g.cs
+D:\Downloads\NargesLogs v0.77\NargesLogs\NargesLogs\obj\Debug\Settings.g.cs
+D:\Downloads\NargesLogs v0.77\NargesLogs\NargesLogs\obj\Debug\Visit Details.g.cs
+D:\Downloads\NargesLogs v0.77\NargesLogs\NargesLogs\obj\Debug\App.g.cs
+D:\Downloads\NargesLogs v0.77\NargesLogs\NargesLogs\obj\Debug\NargesLogs_Content.g.cs
+D:\Downloads\NargesLogs v0.77\NargesLogs\NargesLogs\obj\Debug\NargesLogs_MarkupCompile.cache
+D:\Downloads\NargesLogs v0.77\NargesLogs\NargesLogs\obj\Debug\NargesLogs_MarkupCompile.lref
+D:\Downloads\NargesLogs v0.77\NargesLogs\NargesLogs\obj\Debug\Home Page.baml
+D:\Downloads\NargesLogs v0.77\NargesLogs\NargesLogs\obj\Debug\MainWindow.baml
+D:\Downloads\NargesLogs v0.77\NargesLogs\NargesLogs\obj\Debug\Patient Details.baml
+D:\Downloads\NargesLogs v0.77\NargesLogs\NargesLogs\obj\Debug\Patients List.baml
+D:\Downloads\NargesLogs v0.77\NargesLogs\NargesLogs\obj\Debug\Settings.baml
+D:\Downloads\NargesLogs v0.77\NargesLogs\NargesLogs\obj\Debug\Visit Details.baml
+D:\Downloads\NargesLogs v0.77\NargesLogs\NargesLogs\obj\Debug\NargesLogs.g.resources
+D:\Downloads\NargesLogs v0.77\NargesLogs\NargesLogs\obj\Debug\NargesLogs.Properties.Resources.resources
+D:\Downloads\NargesLogs v0.77\NargesLogs\NargesLogs\obj\Debug\NargesLogs.csproj.GenerateResource.Cache
+D:\Downloads\NargesLogs v0.77\NargesLogs\NargesLogs\obj\Debug\NargesLogs.exe
+D:\Downloads\NargesLogs v0.77\NargesLogs\NargesLogs\obj\Debug\NargesLogs.pdb
+D:\Downloads\NargesLogs\NargesLogs\bin\Debug\Add Image Graphic 2.png
+D:\Downloads\NargesLogs\NargesLogs\obj\Debug\Home Page.g.cs
+D:\Downloads\NargesLogs\NargesLogs\obj\Debug\MainWindow.g.cs
+D:\Downloads\NargesLogs\NargesLogs\obj\Debug\Patient Details.g.cs
+D:\Downloads\NargesLogs\NargesLogs\obj\Debug\Patients List.g.cs
+D:\Downloads\NargesLogs\NargesLogs\obj\Debug\Settings.g.cs
+D:\Downloads\NargesLogs\NargesLogs\obj\Debug\Visit Details.g.cs
+D:\Downloads\NargesLogs\NargesLogs\obj\Debug\Home Page.baml
+D:\Downloads\NargesLogs\NargesLogs\obj\Debug\MainWindow.baml
+D:\Downloads\NargesLogs\NargesLogs\obj\Debug\Patient Details.baml
+D:\Downloads\NargesLogs\NargesLogs\obj\Debug\Patients List.baml
+D:\Downloads\NargesLogs\NargesLogs\obj\Debug\Settings.baml
+D:\Downloads\NargesLogs\NargesLogs\obj\Debug\Visit Details.baml
