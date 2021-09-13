@@ -1,0 +1,5 @@
+First run the server with either the shortcut or "Program\Hybrid\Client\bin\Debug\Server_code"
+
+Next, Run the client through the shortcut or "Program\Hybrid\Client\bin\Debug\Client"
+
+multiple users can connect to the same server, forward port 3214 to the machine running the server to allow clients outside of the local network to connect to the server.

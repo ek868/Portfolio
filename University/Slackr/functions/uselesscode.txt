@@ -1,0 +1,28 @@
+    
+'''
+    connections = getConnections()
+    if token not in connections:
+        raise ValueError("token not logged in")
+'''
+
+owners_dictionaries[0], admins_dictionaries[0]
+
+    channel_public = channel_create(eilia['u_id'], "Public", True)        # A public channel by eilia
+    channel_private = channel_create(nichlas['u_id'], "MyChannel", False)  # A private channel by Nichals
+
+
+def generateToken(id):
+    return jwt.encode({"u_id" : str(id)}, "1531_Pass_Cut_Off", algorithm='HS256')
+
+def getIdFromToken(token):
+    print(jwt.decode(token, "1531_Pass_Cut_Off"))
+    try:
+        return (jwt.decode(token, "1531_Pass_Cut_Off")['u_id'])
+    except:
+        return None
+
+
+
+for i in range(len(channel.members)):
+        if channel.members[i]['u_id'] == u_id:
+            del channel.members[i]
