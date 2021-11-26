@@ -18,4 +18,7 @@ You can find some of my older work in this repo, and a few links to some of my o
 
 ## Recent Work
 
-Dungeon Game (Object-Oriented Java program): https://github.com/ek868/Dungeon_Game
+### Dungeon Gamr
+This is an object-oriented java project - a pixelated action adventure game where the game takes in level instructions and generates levels accordingly, allowing easy third party creation of levels. This repo is private due to the UNSW plagarism policy. Please send me a message on LinkedIn or contact me via email if you wish to view the code.
+
+https://github.com/ek868/Dungeon_Game
