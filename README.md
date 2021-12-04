@@ -29,3 +29,10 @@ This is an Android application written in Java that operates like a regular calc
 This project is currently in development, view the git repo below to track progress and view the currently written code:
 
 https://github.com/ek868/Secret_Calculator
+
+### Slackr
+This is an agile social messaging web application similar to Slack. The Application features persistent accounts, "forgot my password" feature, public and private channels, administrative permissions, login tokens for security, timed messages, and more!
+
+This repo is set to private to comply with the UNSW plagiarism policy. If you would like to view the code, please contact me and you will be granted access immediately.
+
+https://github.com/ek868/Slackr
