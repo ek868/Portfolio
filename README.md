@@ -25,7 +25,7 @@ An Android application written in Kotlin (and Jetpack Compose). The application 
 ### NFT World
 A social media platform that reports on purchases of NFTs based on information from Rarible API. Users can follow each other and be updated on each other's activity on a feed. User's can track NFTs to be updated about the NFT. Users can battle one another's NFTs - NFT battles are contests that are publicly held. Users will vote on which of the two NFTs are the coolest, and the winner has their NFT appear more frequently on people's feeds. Completed as a part of the UNSW Computer Science capstone project.
 
-link to be added soon!
+https://github.com/unsw-cse-comp3900-9900-22T3/capstone-project-comp3900-m10a-coffeecult
 
 
 ### Slackr
